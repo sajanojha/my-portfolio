@@ -1,2 +1,3 @@
-# my-portfolio
-This is my professional portfolio
+# Sajan Raj Ojha's portfolio
+
+This is my professional portfolio. It uses AWS and ReactJS.
