@@ -1,4 +1,4 @@
-version 0.1
+version: 0.1
 
 phases:
   build:
@@ -9,7 +9,7 @@ artifacts:
     - index.html
     - favicon.ico
     - sajan-raj-ojha-resume.pdf
-    - vendor/*
+    
     - css/*
     - img/*
     - js/*
