@@ -9,7 +9,25 @@ artifacts:
     - index.html
     - favicon.ico
     - sajan-raj-ojha-resume.pdf
-    
+
     - css/*
-    - img/*
+    - img/about/*
+    - img/logos/*
+    - img/portfolio/*
     - js/*
+    - vendor/bootstrap/css/*
+    - vendor/bootstrap/js/*
+    - vendor/jquery/*
+    - vendor/jquery-easing/*
+    - vendor/pace/*
+    - vendor/typer/*
+    - vendor/fontawesome-free/*
+    - vendor/fontawesome-free/css/*
+    - vendor/fontawesome-free/js/*
+    - vendor/fontawesome-free/less/*
+    - vendor/fontawesome-free/scss/*
+    - vendor/fontawesome-free/sprites/*
+    - vendor/fontawesome-free/webfonts/*
+    - vendor/fontawesome-free/svgs/brands/*
+    - vendor/fontawesome-free/svgs/regular/*
+    - vendor/fontawesome-free/svgs/solid/*
