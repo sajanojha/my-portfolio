@@ -1,0 +1,15 @@
+version 0.5
+
+phases:
+  build:
+    commands:
+      - echo nothing to do yet
+artifact:
+  files:
+    - index.html
+    - favicon.ico
+    - sajan-raj-ojha-resume.pdf
+    - vendor/*
+    - css/*
+    - img/*
+    - js/*
