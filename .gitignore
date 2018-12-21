@@ -35,6 +35,8 @@ build/Release
 # Dependency directories
 node_modules/
 jspm_packages/
+vender/
+
 
 # TypeScript v1 declaration files
 typings/
@@ -60,4 +62,3 @@ typings/
 # next.js build output
 .next
 .DS_Store
-vender/
